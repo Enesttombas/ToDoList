@@ -2,7 +2,10 @@
 This project was created with the help of AI assistance, but every line of code was written with full understanding of its structure and logic. I used this opportunity to improve my skills in basic C programming, especially in working with arrays, user input, and menu-driven applications.
 
 
+# 📝 Simple To-Do List in C
 
+A beginner-friendly command-line **To-Do List** application written in C.  
+Yeni başlayanlar için C diliyle yazılmış basit bir terminal tabanlı yapılacaklar listesi uygulaması
 
 
 📋 Program Functionality and Features 
@@ -48,24 +51,6 @@ Bu basit C programı, terminal (komut satırı) üzerinden çalışan bir yapıl
 
 
 
-
-
-# 📝 Simple To-Do List in C
-
-A beginner-friendly command-line **To-Do List** application written in C.  
-Yeni başlayanlar için C diliyle yazılmış basit bir terminal tabanlı yapılacaklar listesi uygulaması.
-
----
-
-## 🎯 Features / Özellikler
-
-- 🟢 Add Tasks / Görev Ekle
-- 📄 View Tasks / Görevleri Görüntüle
-- ❌ Delete Tasks / Görev Sil
-- 🔁 Menu-based navigation / Menü tabanlı kontrol
-- 💾 In-memory storage (no files) / Sadece bellek üzerinde çalışır (dosya kullanılmaz)
-- 👶 All logic inside `main()` function / Tüm işlemler `main()` fonksiyonu içinde yapılır
-- 🔤 Maximum 10 tasks / En fazla 10 görev eklenebilir
 
 ---
 
